@@ -1,16 +1,5 @@
-title: no style, please! # name of the site
-author: Shivam Sharma # name of site's author
-email: shivamofficiel@gmail.com # email of site's author
-url: https://vanic.github.io # root address of the site
-
-theme_config:
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
-
-sass:
-  style: :compressed
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: no-style-please
